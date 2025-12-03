@@ -1,2 +1,2 @@
 # curso-git
-Repo para aprender GITHUB
+## Este es un repo para aprender GITHUB
